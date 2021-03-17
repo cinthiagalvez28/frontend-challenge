@@ -20,7 +20,7 @@ For Safari, run:
 npm run test-all-chrome
 ```
 
-Also, if you want to create a report, run already showed scripts adding an -html-reporter at the end. Example:
+Also, if you want to create a report, run an already showed script adding an -html-reporter at the end. Example:
 ```
 npm run test-all-installed-browsers-html-reporter
 ```
