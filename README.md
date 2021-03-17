@@ -1,6 +1,6 @@
 # frontend-challenge
 
-Download the zip, unzipped the content, go to the frontend-challenge folder and once inside type:
+Download the zip, unzipped the content, go to the frontend-challenge main folder and once inside type in the terminal:
 
 To run all the test in all the installed browsers, run in the terminal:
 ```
