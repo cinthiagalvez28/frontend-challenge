@@ -1,4 +1,4 @@
-# frontend-challenge
+# Front End Challenge
 
 Download the zip, unzipped the content, go to the frontend-challenge main folder and once inside type in the terminal:
 
