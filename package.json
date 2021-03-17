@@ -1,0 +1,22 @@
+{
+  "name": "frontend-challenge",
+  "version": "1.0.0",
+  "description": "FrontEnd TestCafe Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test-all-installed-browsers": "testcafe all ./page_model/test",
+    "test-all-installed-browsers-html-reporter": "testcafe all ./page_model/test -r html:report.html",
+    "test-all-chrome": "testcafe chrome ./page_model/test",
+    "test-all-chrome-html-reporter": "testcafe chrome ./page_model/test -r html:report.html",
+    "test-all-firefox": "testcafe firefox ./page_model/test",
+    "test-all-firefox-html-reporter": "testcafe firefox ./page_model/test -r html:report.html",
+    "test-all-safari": "testcafe safari ./page_model/test",
+    "test-all-safari-html-reporter": "testcafe safari ./page_model/test -r html:report.html"
+  },
+  "author": "Cinthia Galvez",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "testcafe-reporter-html": "^1.4.6"
+  }
+}
