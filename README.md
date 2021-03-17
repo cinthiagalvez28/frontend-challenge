@@ -13,11 +13,11 @@ npm run test-all-chrome
 ```
 For Firefox, run:
 ```
-npm run test-all-chrome
+npm run test-all-firefox
 ```
 For Safari, run:
 ```
-npm run test-all-chrome
+npm run test-all-safari
 ```
 
 Also, if you want to create a report, run an already showed script adding a -html-reporter at the end. Example:
