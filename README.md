@@ -25,3 +25,5 @@ Also, if you want to create a report, run an already showed script adding a -htm
 npm run test-all-installed-browsers-html-reporter
 ```
 A report will be created in the root of the project. Open Chrome, drag & drop the report.html file in the browser and enjoy it. (If the report.html does not create or you have any error, try to install sudo npm install -g testcafe-reporter-html)
+
+** This project was developed on Ubuntu 20.04
